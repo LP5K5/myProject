@@ -1,0 +1,86 @@
+{
+    "profiles":[
+        {
+          "basics":{
+              "Name":"Lekhasri Varikuti",
+              "Branch":"CSE",
+              "Phone":"+91 6305115945",
+              "email":"lekhasrivarikuti@gmial.com"
+        },
+        "education":[
+            {
+                "degree":"SSC",
+                "Percent":"100",
+                "institute":"Narayana"
+            },{
+                "degree":"Intermediate-(M.P.C)",
+                "Percent":"95",
+                "institute":"Narayana juniour college"
+
+            },{
+                "degree":"B.tech-(C.S.E)",
+                "Percent":"90",
+                "institute":"VVIT"
+            }
+        ],
+        "skills":[{
+            "type":"Programming languages",
+            "values":["C","ada","java","c++","ruby","python","prolog"]
+        },{
+            "type":"web technologies",
+            "values":["html","css","javascript"]
+        },{
+            "type":"Frameworks and libraries",
+            "values":["ReactJS"]
+        },
+        {
+            "type":"operating systems",
+            "values":["windows","linux","mac","ubuntu"]
+        }
+    ]
+    },
+        
+        {
+            "basics":{
+                "Name":"Bhargavi Raj Nandini",
+                "Branch":"CSE",
+                "Phone":"+91 6303279204",
+                "email":"vemparalabhargavi@gmail.com"
+          },
+          "education":[
+              {
+                  "degree":"SSC",
+                  "Percent":"85",
+                  "institute":"Sri chaitanya"
+  
+              },{
+                  "degree":"Intermediate-(M.P.C)",
+                  "Percent":"85",
+                  "institute":"Sri chaitanya juniour college"
+  
+              },{
+                  "degree":"B.tech-(C.S.E)",
+                  "Percent":"90",
+                  "institute":"VVIT"
+  
+              }
+          ],
+          "skills":[{
+            "type":"Programming languages",
+            "values":["C","ada","java","python","ada","prolog"]
+        },{
+            "type":"Web development",
+            "values":["html","css","java script"]
+        },{
+            "type":"operating systems",
+            "values":["windows","linux","ubuntu","mac"]
+        },{
+            "type":"Frameworks and libraries",
+            "values":["ReactJS"]
+        }
+    ]
+              
+            }
+        
+    ]
+}
